@@ -5,7 +5,7 @@ A currency converter tool is a software application or online service that enabl
 
 I have created this tool by using ReactJs, HTML and CSS
 
--[Api used](https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/inr.json)
+-  [Api used](https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/inr.json)
 
 - [Video Link](https://asset.cloudinary.com/dsnsgtmew/5d3426b8cab47292621dd3f53605d4fe)
 
